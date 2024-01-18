@@ -37,7 +37,6 @@ public class EmployeeService {
 	}
      
 	public void updateE(Employee empp) {
-		System.out.println("YAS");
 		employeeRepository.save(empp);
 	}
 }
