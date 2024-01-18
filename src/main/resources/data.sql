@@ -1,0 +1,1 @@
+insert into employee(id,desg,image_url,name) values(32,'kkr','kkr','kkr'),(44,'krk','krk','krk');
